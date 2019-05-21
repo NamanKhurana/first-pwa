@@ -1,0 +1,15 @@
+{
+  "name": "first-pwa",
+  "version": "1.0.0",
+  "description": "This source code is part of Maximilian Schwarzmüller's \"Progressive Web Apps - Complete Guide\" course on udemy.com.",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
